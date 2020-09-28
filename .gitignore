@@ -1,5 +1,7 @@
 node_modules
 
+package-lock.json
+
 sw_build.js
 
 yarn.lock
